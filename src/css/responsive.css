@@ -1,0 +1,33 @@
+    /* Responsividade */
+    @media (max-width: 768px) {
+        header {
+            flex-direction: column;
+            padding: 1rem;
+        }
+
+        nav ul {
+            gap: 1rem;
+        }
+
+        #hero h1 {
+            font-size: 2rem;
+        }
+
+        #hero p {
+            font-size: 1rem;
+        }
+
+        #hero .hero-content {
+            margin-left: 2%;
+            /* Ajuste para mobile */
+        }
+
+        .cards-container {
+            grid-template-columns: 1fr;
+        }
+
+        .depoimento {
+            flex-direction: column;
+            text-align: center;
+        }
+    }
