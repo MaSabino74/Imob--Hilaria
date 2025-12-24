@@ -4,17 +4,26 @@ Uma landing page moderna, performática e totalmente responsiva desenvolvida par
 
 <h2 align = "center">## 🚀 Tecnologias Utilizadas</h2>
 * **HTML5** (Semântica e Acessibilidade)
-* **CSS3** (Grid Layout, Flexbox, Variáveis e Media Queries)
+<br>
+* **CSS3** (Grid Layout, Flexbox, Variáveis e Media Queries)<br>
 * **JavaScript** (Manipulação de DOM para Header Camaleão e interatividade)
+<br>
 * **WebP** (Otimização de imagens para alta performance)
+<br>
 
 <h2 align = "center">## 📋 Funcionalidades</h2>
 - **Header Camaleão**: Navegação que altera cores e opacidade conforme o scroll.
+<br>
 - **Hero Section**: Impacto visual com gradientes e imagem otimizada.
+<br>
 - **Vitrine de Imóveis**: Grid responsivo com cards interativos.
+<br>
 - **Seção de Depoimentos**: Prova social com sistema de avaliação por estrelas.
+<br>
 - **Newsletter**: Captura de leads integrada ao rodapé.
+<br>
 - **Botão Flutuante**: Acesso direto ao WhatsApp.
+<br>
 <h2 align ="center">💻 Tecnologias utilizadas</h2>
 
 Aqui estão as principais tecnologias utilizadas no desenvolvimento projeto:
@@ -27,7 +36,7 @@ Aqui estão as principais tecnologias utilizadas no desenvolvimento projeto:
 <br>
 
 <h2 align = "center">## 🛠️ Organização do Projeto</h2>
-
+O projeto segue uma estrutura de pastas organizada (`src/assets`, `css`, `js`) para facilitar a manutenção e escalabilidade.
 imobhilaria
 │
 ├── index.html
@@ -50,7 +59,7 @@ imobhilaria
 ├── README.md
 └── .gitignore
 <br>
-O projeto segue uma estrutura de pastas organizada (`src/assets`, `css`, `js`) para facilitar a manutenção e escalabilidade.
+
 
 <h2 aling ="center">## 🔗 Conecte-se Comigo</h2>
 
