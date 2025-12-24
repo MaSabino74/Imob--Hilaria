@@ -90,7 +90,6 @@ header.active nav a:hover {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: scroll;
-
     display: flex;
     align-items: center;
     justify-content: flex-start;
@@ -358,5 +357,6 @@ footer {
     width: 30px;
     height: 30px;
 }
+
 
 
